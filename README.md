@@ -8,7 +8,7 @@
 
 ## 📸 Aperçu
 
-![Cry-O Preview](./assets/Cry-O.png)
+![Cry-O Preview](Cry-O.png)
 
 ## 🧠 Concept
 
